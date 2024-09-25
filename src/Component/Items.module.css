@@ -1,0 +1,17 @@
+.kgItem{
+  background-color: khaki;
+  color:red;
+}
+.food-heading{
+  background-color: silver;
+  color: brown;
+}
+
+.btn{
+  padding: 5px 20px;
+  border: none;
+  background-color: black;
+  border-radius: 5px;
+  color: white;
+  float: right;
+}
